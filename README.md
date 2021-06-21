@@ -7,4 +7,4 @@ this playground competition, hosted in partnership with Google Cloud and Courser
 
 The evaluation metric for this competition is the root mean-squared error or RMSE. RMSE measures the difference between the predictions of a model, and the corresponding ground truth. A large RMSE is equivalent to a large average error, so smaller values of RMSE are better. One nice property of RMSE is that the error is given in the units being measured, so you can tell very directly how incorrect the model might be on unseen data.
 
-RMSE is given by: ![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fwhat-does-rmse-really-mean-806b65f2e48e&psig=AOvVaw0vK4pXqAg67RbmV0nu0zlM&ust=1624358062459000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMij5vfCqPECFQAAAAAdAAAAABAD)
+RMSE is given by: ![alt text](https://github.com/rushidarge/New-York-City-Taxi-Fare-Prediction/blob/main/img/rmse.png?raw=true)
