@@ -1,7 +1,7 @@
 # New-York-City-Taxi-Fare-Prediction
 
 ![alt text](https://github.com/rushidarge/New-York-City-Taxi-Fare-Prediction/blob/main/img/header.png?raw=true)
-### Can you predict a rider's taxi fare?
+### predict taxi fare?
 
 this playground competition, hosted in partnership with Google Cloud and Coursera, you are tasked with predicting the fare amount (inclusive of tolls) for a taxi ride in New York City given the pickup and dropoff locations.
 
