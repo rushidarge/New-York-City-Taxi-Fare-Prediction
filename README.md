@@ -8,3 +8,9 @@ this playground competition, hosted in partnership with Google Cloud and Courser
 The evaluation metric for this competition is the root mean-squared error or RMSE. RMSE measures the difference between the predictions of a model, and the corresponding ground truth. A large RMSE is equivalent to a large average error, so smaller values of RMSE are better. One nice property of RMSE is that the error is given in the units being measured, so you can tell very directly how incorrect the model might be on unseen data.
 
 RMSE is given by: ![alt text](https://github.com/rushidarge/New-York-City-Taxi-Fare-Prediction/blob/main/img/rmse.png?raw=true)
+
+## Deployment [API]
+link(https://fare-price.herokuapp.com/docs)
+
+![alt text](https://github.com/rushidarge/New-York-City-Taxi-Fare-Prediction/blob/main/img/api_ss.JPG?raw=true)
+![alt text](https://github.com/rushidarge/New-York-City-Taxi-Fare-Prediction/blob/main/img/api_ss2.JPG?raw=true)
